@@ -1,1 +1,1 @@
-# ubuntu-server-dpkg-list
+# ubuntu-server-pkg-list
